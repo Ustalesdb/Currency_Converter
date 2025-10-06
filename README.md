@@ -8,3 +8,4 @@
 
 ⚠️ Constraints:
 - pip install requests
+- pip install pyqt5
